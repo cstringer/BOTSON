@@ -10,8 +10,6 @@ for
 in
 into
 never
-nor
-not
 only
 that
 to

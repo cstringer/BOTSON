@@ -295,7 +295,7 @@ internationalization
 invalid
 invert
 isolation
-iterate
+iteration
 iterative design
 justify-content
 keyframes
