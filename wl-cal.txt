@@ -1,0 +1,116 @@
+AWS
+Admin Tools
+BRZ
+BitBucket
+CA&L
+ChoiceVC
+Confluence
+CSS
+DEV
+DIS
+DNS
+ETS
+EventManager
+Global Zoom
+HTML
+HTTPS
+IBGraph
+IBTC
+IBTextEditor
+InlineChoiceSelectList
+K-12
+JIRA ticket
+Jenkins
+JSON
+LaTeX
+LCS
+LESS
+Level12
+MathQuill
+MathJAX
+Mediator
+New Jersey
+Node.js
+PROD
+Pearson's implementation
+Presenter
+Princeton
+SBAC
+SQA
+SVG filter
+Section 508
+Section 508-compliant
+Sri Harsha
+Suite D
+TDE
+Test Client
+TOMS
+TSS
+Texas
+UAT
+Warhol
+Winsight
+Wisconsin
+accessibile hotspot
+accessibility
+add a comment
+alignment issues
+authoring issue
+app config
+branch
+bugfix
+checkout
+cloud
+collaborate
+commit
+config
+config file
+configs
+configurable
+configuration
+configurations
+conference room
+deploy
+deployment job
+develop
+diversity
+educate and inspire
+empower and engage
+engage and enlighten
+feature
+fullpage
+git
+grunt less
+hotfix
+iPackager
+latest build
+latest release
+layout
+localtest
+market share
+merge
+merged
+merging strategy
+paired passage
+passage
+pilot
+port number
+progressively-enhanced
+pull request
+rebase
+rubric
+section
+set leader
+set leader preview
+set member
+student aptitude
+student login
+style guide
+stylesheet
+system-specific bug
+test administration
+test client
+test delivery
+test part
+test-taking strategy
+year 3
