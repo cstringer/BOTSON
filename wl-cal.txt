@@ -1,5 +1,6 @@
 AWS
 Admin Tools
+Atticus
 BRZ
 BitBucket
 CA&L
@@ -31,6 +32,7 @@ MathJAX
 Mediator
 New Jersey
 Node.js
+PDTDE
 PROD
 Pearson's implementation
 Presenter
@@ -44,6 +46,7 @@ Sri Harsha
 Suite D
 TDE
 Test Client
+TOEFL
 TOMS
 TSS
 Texas
@@ -54,27 +57,29 @@ Wisconsin
 accessibile hotspot
 accessibility
 add a comment
-alignment issues
+alignment issue
+analysis
 authoring issue
 app config
+application
+assessment
 benchmark
 best practices
 branch
 bugfix
 checkout
 cloud
+cognition gradient
 collaborate
 commit
+compliance
 config
 config file
-configs
-configurable
+configurability
 configuration
-configurations
 conference room
-deploy
 deployment job
-develop
+develop branch
 diversity
 educate and inspire
 empower and engage
@@ -82,25 +87,33 @@ engage and enlighten
 feature
 fullpage
 git
+git pull
+grunt do_warhols
 grunt less
 hotfix
 iPackager
+iPad issue
 latest build
 latest release
 layout
 localtest
 market share
+master
 merge
 merged
 merging strategy
+metrics
+multi-tenant
 paired passage
 passage
 pilot
+platform-specific
 port number
-progressively-enhanced
+progressive enhancement
 pull request
 rebase
 rubric
+scrollbar
 section
 set leader
 set leader preview
@@ -114,6 +127,7 @@ test administration
 test client
 test delivery
 test part
+test session
 test-taking strategy
 usability
 year 3
