@@ -128,7 +128,7 @@ produces
 programs
 propagates
 qualifis
-quantifis
+quantifies
 re-enginees
 rebuilds
 rectifies

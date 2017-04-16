@@ -16,7 +16,7 @@ $conj = file('wl-conj.txt');
 $sentenceTypes = array('SV', 'SVO', 'SVAO', 'SVP');
 
 // end-of-sentence punctuation
-$eosPunctuation = array('.','!','?','.');
+$eosPunctuation = array('.','!','.','?','.','...');
 
 // set script error reporting level
 error_reporting(E_ALL);
