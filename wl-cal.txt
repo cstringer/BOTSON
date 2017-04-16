@@ -86,6 +86,7 @@ configuration
 conference room
 deployment job
 develop branch
+differs from requirements
 diversity
 educate and inspire
 empower and engage
@@ -127,6 +128,7 @@ progressive enhancement
 pull request
 quadrant
 rebase
+requirements
 rollover
 rubric
 scrollbar

@@ -152,10 +152,12 @@ counter-increment
 counter-reset
 counter-style
 cross-fade
+CSS3
 cubic-bezier
 cursor
 custom-ident
 data entry field
+database
 default
 deg
 density
@@ -261,6 +263,7 @@ historical-forms
 hover
 hsl
 hsla
+HTML5
 hue-rotate
 hues
 human factor
@@ -360,9 +363,14 @@ min-width
 min-zoom
 minmax
 mix-blend-mode
+model
 monochrome
 monospaced font
 mood board
+MVC
+MVP
+MVVC
+MVVM
 namespace
 navigation
 navigation design
@@ -601,6 +609,7 @@ UX unicorn
 valid
 var
 vertical-align
+view controller
 viewport
 visibility
 visited
