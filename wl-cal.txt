@@ -91,6 +91,8 @@ educate and inspire
 empower and engage
 engage and enlighten
 feature
+foos
+foosball
 fullpage
 git
 git pull
