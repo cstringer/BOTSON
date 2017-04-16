@@ -256,7 +256,7 @@ HCI
 height
 heuristic review
 high-fidelity prototype
-high-Fidelity prototype
+high-fidelity prototype
 historical-forms
 hover
 hsl
@@ -325,7 +325,7 @@ list-style-type
 local
 look and feel
 low-fidelity prototype
-low-Fidelity prototype
+low-fidelity prototype
 luminance
 margin
 margin-block-end
@@ -595,8 +595,7 @@ user interview
 user journey
 user research
 user test
-user-Centered design
-user-centred design
+user-centered design
 user-zoom
 UX unicorn
 valid

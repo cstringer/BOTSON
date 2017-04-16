@@ -166,10 +166,15 @@ function buildSentence(&$sentence, $type = NULL, $compound = FALSE, $useConj = T
  */
 function printSentence($sentence, $es_punc = NULL) {
     global $eosPunctuation;
+    $sentString = '';
     if (!$es_punc) {
         $es_punc = getRandom($eosPunctuation);
     }
-    echo ucfirst(implode(' ', $sentence)) . $es_punc;
+    $sentString = implode(' ', $sentence) . $es_punc;
+    if (!preg_match('/^[a-z]{1}[A-Z]{1}/', $sentString)) {
+        $sentString = ucfirst($sentString);
+    }
+    echo $sentString;
 }
 
 /** Get a random entry from the given array (with any EOL whitespace trimmed) */
