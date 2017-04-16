@@ -19,7 +19,7 @@ $sentenceTypes = array('SV', 'SVO', 'SVAO', 'SVP');
 $eosPunctuation = array('.','!','.','?','.','...');
 
 // set script error reporting level
-error_reporting(E_ALL);
+error_reporting(0);
 
 // seed random number generator
 srand();
