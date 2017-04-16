@@ -50,13 +50,13 @@ ensures
 establishes
 evaluates
 exceeds
-excells
+excels
 excludes
 executes
 expedites
 experiences
 experiments
-extractes
+extracts
 facilitates
 finalizes
 finds
@@ -108,7 +108,7 @@ operates
 optimizes
 orders
 organizes
-out pacs
+out paces
 outsources
 overcomes
 oversees
@@ -127,9 +127,9 @@ procures
 produces
 programs
 propagates
-qualifis
+qualifies
 quantifies
-re-enginees
+re-engineers
 rebuilds
 rectifies
 redefines
@@ -155,7 +155,7 @@ tailors
 targets
 tests
 trains
-uncoveres
+uncovers
 unifies
 upgrades
 utilizes
