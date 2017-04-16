@@ -1,18 +1,21 @@
 AWS
 Admin Tools
+App div
 Atticus
 BRZ
 BitBucket
 CA&L
+Chris' bug
 ChoiceVC
 Confluence
 CSS
+CSS transition
 DEV
 DIS
 DNS
 ETS
 EventManager
-Global Zoom
+GlobalZoom
 HTML
 HTTPS
 IBGraph
@@ -32,11 +35,13 @@ MathJAX
 Mediator
 New Jersey
 Node.js
+NTS
 PDTDE
 PROD
 Pearson's implementation
 Presenter
 Princeton
+Ryan's lead
 SBAC
 SQA
 SVG filter
@@ -54,6 +59,7 @@ UAT
 Warhol
 Winsight
 Wisconsin
+XML
 accessibile hotspot
 accessibility
 add a comment
@@ -93,6 +99,8 @@ grunt less
 hotfix
 iPackager
 iPad issue
+invalid format
+item identifier
 latest build
 latest release
 layout
@@ -104,16 +112,23 @@ merged
 merging strategy
 metrics
 multi-tenant
+maybe Madhu
 paired passage
+parsing error
 passage
 pilot
 platform-specific
+pop-ups
 port number
+possibly Santi
 progressive enhancement
 pull request
+quadrant
 rebase
+rollover
 rubric
 scrollbar
+sector
 section
 set leader
 set leader preview
@@ -129,5 +144,8 @@ test delivery
 test part
 test session
 test-taking strategy
+text-to-speech
+Andrew working remotely
+tooltip
 usability
 year 3
