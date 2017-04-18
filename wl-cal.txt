@@ -1,20 +1,26 @@
 AWS
 Admin Tools
 App div
+Artifactory
 Atticus
 BRZ
 BitBucket
 CA&L
 Chris' bug
 ChoiceVC
+Chrome
+Chromebook
+Chrome Extension
 Confluence
 CSS
 CSS transition
 DEV
 DIS
 DNS
+Docker container
 ETS
 EventManager
+Firefox
 GlobalZoom
 HTML
 HTTPS
@@ -33,6 +39,7 @@ Level12
 MathQuill
 MathJAX
 Mediator
+Murali's idea
 New Jersey
 Node.js
 NTS
@@ -41,12 +48,15 @@ PROD
 Pearson's implementation
 Presenter
 Princeton
+Russ' Python code
 Ryan's lead
 SBAC
 SQA
 SVG filter
+Safari-specific bug
 Section 508
 Section 508-compliant
+SecureBrowser
 Sri Harsha
 Suite D
 TDE
@@ -59,6 +69,7 @@ UAT
 Warhol
 Winsight
 Wisconsin
+XCode
 XML
 accessibile hotspot
 accessibility
@@ -152,4 +163,5 @@ text-to-speech
 Andrew working remotely
 tooltip
 usability
+virtual machine
 year 3
