@@ -1,15 +1,21 @@
+404 not found
+500 server error
 AWS
 Admin Tools
+Andrew's branch
+Android tablet
 App div
+Apple's market share
 Artifactory
 Atticus
+Bala's fault
 BRZ
 BitBucket
 CA&L
 Chris' bug
 ChoiceVC
 Chrome
-Chromebook
+ChromeBook
 Chrome Extension
 Confluence
 CSS
@@ -18,17 +24,23 @@ DEV
 DIS
 DNS
 Docker container
+Eclipse
+ELA
 ETS
 EventManager
 Firefox
 GlobalZoom
 HTML
+HTTP header
 HTTPS
 IBGraph
 IBTC
 IBTextEditor
 InlineChoiceSelectList
+Item Viewer
 K-12
+Java class
+JavaScript
 JIRA ticket
 Jenkins
 JSON
@@ -40,16 +52,22 @@ MathQuill
 MathJAX
 Mediator
 Murali's idea
+Mustache
 New Jersey
 Node.js
 NTS
 PDTDE
+PM
+POM file
 PROD
 Pearson's implementation
 Presenter
+Preview Browser
+Photoshop lens flare
 Princeton
 Russ' Python code
 Ryan's lead
+Satish's parsing change
 SBAC
 SQA
 SVG filter
@@ -67,6 +85,7 @@ TSS
 Texas
 UAT
 Warhol
+W.A.V.E. score
 Winsight
 Wisconsin
 XCode
@@ -83,12 +102,14 @@ assessment
 benchmark
 best practices
 branch
+break room
 bugfix
 checkout
 cloud
 cognition gradient
 collaborate
 commit
+commit message
 compliance
 config
 config file
@@ -110,7 +131,9 @@ git
 git pull
 grunt do_warhols
 grunt less
+headers
 hotfix
+iOS bug
 iPackager
 iPad issue
 invalid format
@@ -119,6 +142,7 @@ latest build
 latest release
 layout
 localtest
+loosely-typed
 market share
 master
 merge
@@ -127,6 +151,12 @@ merging strategy
 metrics
 multi-tenant
 maybe Madhu
+only in Chrome
+only in Firefox
+only on ChromeBook
+only on iPad
+only on Mac
+only on Windows
 paired passage
 parsing error
 passage
@@ -135,11 +165,13 @@ platform-specific
 pop-ups
 port number
 possibly Santi
+precompiled header
 progressive enhancement
 pull request
 quadrant
 rebase
 requirements
+revision history
 rollover
 rubric
 scrollbar
@@ -153,6 +185,8 @@ student login
 style guide
 stylesheet
 system-specific bug
+template
+templating engine
 test administration
 test client
 test delivery
@@ -160,8 +194,13 @@ test part
 test session
 test-taking strategy
 text-to-speech
-Andrew working remotely
 tooltip
+try clearing the cache
+type coersion
+typecast
 usability
+variable scope
+via closure
 virtual machine
+well-formed packet
 year 3
